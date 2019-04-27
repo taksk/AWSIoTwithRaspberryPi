@@ -1,0 +1,10 @@
+{
+    "host": "XXXXX.iot.us-east-2.amazonaws.com",
+    "rootCAPath": "cert/AmazonRootCA1.pem",
+    "certificatePath": "cert/XXXXXXXXXX-certificate.pem.crt",
+    "privateKeyPath": "cert/XXXXXXXXXX-private.pem.key",
+    "port": 8883,
+    "useWebsocket": false,
+    "clientId": "testClient",
+    "topic": "testTopic"
+}
